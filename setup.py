@@ -50,9 +50,6 @@ setup(
     packages=get_packages('django_selectel'),
     author='KokocGroup',
     author_email='dev@kokoc.com',
-    install_requires=[
-        'requests==2.18.4'
-    ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
